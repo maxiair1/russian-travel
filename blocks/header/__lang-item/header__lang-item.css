@@ -1,0 +1,21 @@
+.header__lang-item {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.16;
+}
+.header__lang-item:first-child {
+  margin-right: 18px;
+}
+
+.header__lang-item:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-item {
+    font-size: 18px;
+    line-height: 1.1;
+  }
+}
