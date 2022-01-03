@@ -2,6 +2,19 @@
   font-size: 10px;
   font-weight: 400;
   line-height: 1.4;
-  width: 90vw;
+  max-width: 984px;
   margin: 8px auto 0;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__caption {
+    margin-left: 0;
+    padding-left: 24px;
+  }
+}@media screen and (max-width: 320px) {
+  .lead__caption {
+    margin-left: 0;
+    padding-left: 16px;
+  }
 }
