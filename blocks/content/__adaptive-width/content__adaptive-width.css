@@ -13,12 +13,16 @@
     width: calc(720px + 208 * (100vw - 768px) / 256);
 
   }
-}@media screen and (max-width: 767px) {
+}
+
+@media screen and (max-width: 767px) {
   .content__adaptive-width {
     width: calc(288px + 432 * (100vw - 320px) / 448);
 
   }
-}@media screen and (max-width: 320px) {
+}
+
+@media screen and (max-width: 320px) {
   .content__adaptive-width {
     width: 288px;
   }
