@@ -41,13 +41,11 @@
 }
 @media screen and (max-width: 768px) {
   .cover__item{
-    width: 100%;
     min-height: 480px;
   }
 }
 @media screen and (max-width: 320px) {
   .cover__item{
-    width: 100%;
     min-height: 200px;
   }
 }
