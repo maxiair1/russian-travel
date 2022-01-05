@@ -20,6 +20,6 @@
 В данной работе применялась адаптивная верстка.
 Использовались Flex, Grid и медиазапросы.
 
-[ссылка на Git-Pages](https://tinypng.com/).
+[ссылка на Git-Pages](https://maxiair1.github.io/russian-travel/).
 
 Спасибо за внимание!
