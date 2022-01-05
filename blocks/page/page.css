@@ -4,31 +4,6 @@
   background-color: #2A2C2F;
   margin: 0 auto;
   min-width: 320px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
-
-/*@media screen and (max-width: 1280px) {*/
-/*  .page {*/
-/*    max-width: 1280px;*/
-/*    min-width: 1025px;*/
-/*  }*/
-/*}*/
-
-/*@media screen and (max-width: 1024px) {*/
-/*  .page {*/
-/*    min-width: 769px;*/
-/*    max-width: 1024px;*/
-/*  }*/
-/*}*/
-
-/*@media screen and (max-width: 768px) {*/
-/*  .page {*/
-/*    min-width: 426px;*/
-/*    max-width: 768px;*/
-/*  }*/
-/*}*/
-
-/*@media screen and (max-width: 425px) {*/
-/*  .page {*/
-/*    width: 425px;*/
-/*  }*/
-/*}*/

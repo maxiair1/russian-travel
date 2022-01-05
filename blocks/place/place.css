@@ -24,6 +24,11 @@
   .place {
     gap: 48px 28px;
     grid-template-columns: 340px auto;
+    margin: 73px auto 0;
+  }
+
+  .place:first-child {
+    margin: 0 auto;
   }
 }
 
@@ -37,5 +42,10 @@
     "url"
     "img"
     "text";
+    margin: 50px auto 0;
+  }
+
+  .place:first-child {
+    margin: 0 auto;
   }
 }

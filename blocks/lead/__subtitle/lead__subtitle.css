@@ -6,7 +6,7 @@
   margin: 32px auto 0;
   text-align: center;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead__subtitle {
     font-size: calc(16px + 24 * (100vw - 320px) / 960);
     line-height: 1.2;
@@ -18,5 +18,6 @@
     font-size: 16px;
     line-height: 1.25;
     width: 288px;
+    margin: 17px auto 0;
   }
 }
